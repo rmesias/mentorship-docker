@@ -1,0 +1,10 @@
+{
+  "name": "mentorship-docker",
+  "version": "1.0.0",
+  "description": "docker mentorship workspace",
+  "workspaces": [
+    "web",
+    "api",
+    "playwright"
+  ]
+}
